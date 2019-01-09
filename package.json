@@ -1,0 +1,28 @@
+{
+  "name": "noticias-rss",
+  "version": "1.0.0",
+  "description": "API que recibe noticias del Ecuador mediante RSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israteneda/noticias-rss.git"
+  },
+  "keywords": [
+    "rss",
+    "noticias",
+    "ecuador"
+  ],
+  "author": "Isra Teneda, Johnny Villacís, Anthony Cabrera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/israteneda/noticias-rss/issues"
+  },
+  "homepage": "https://github.com/israteneda/noticias-rss#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
